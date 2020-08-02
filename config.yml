@@ -1,0 +1,8 @@
+workers: 2
+period: 1 # seconds
+urls:
+  - http://google.com
+  - https://amazon.co.jp
+  - https://yahoo.co.jp
+  - http://localhost:3000
+  - http://e5119bb9fcb767fab2851e5c191e9552-not-exists.com:3000

@@ -2,7 +2,7 @@ name: url-checker
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - d2verb
 
 targets:
   url-checker:
@@ -11,3 +11,11 @@ targets:
 crystal: 0.35.1
 
 license: MIT
+
+dependencies:
+  tablo:
+    github: hutou/tablo
+    version: 0.9.3
+  crt:
+    github: maiha/crt.cr
+    version: 0.4.2

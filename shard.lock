@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  crt:
+    git: https://github.com/maiha/crt.cr.git
+    version: 0.4.2
+
+  tablo:
+    git: https://github.com/hutou/tablo.git
+    version: 0.9.3
+

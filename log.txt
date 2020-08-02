@@ -1,0 +1,261 @@
+2020-08-02 11:17:45 [  INFO]@generator: sending urls
+2020-08-02 11:17:45 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:46 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:46 [  INFO]@generator: sending urls
+2020-08-02 11:17:47 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:48 [  INFO]@generator: sending urls
+2020-08-02 11:17:48 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:49 [  INFO]@generator: sending urls
+2020-08-02 11:17:49 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:50 [  INFO]@generator: sending urls
+2020-08-02 11:17:50 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:51 [  INFO]@generator: sending urls
+2020-08-02 11:17:51 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:52 [  INFO]@generator: sending urls
+2020-08-02 11:17:52 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:53 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:53 [  INFO]@generator: sending urls
+2020-08-02 11:17:54 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:55 [  INFO]@generator: sending urls
+2020-08-02 11:17:55 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:56 [  INFO]@generator: sending urls
+2020-08-02 11:17:56 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:57 [  INFO]@generator: sending urls
+2020-08-02 11:17:57 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:58 [  INFO]@generator: sending urls
+2020-08-02 11:17:58 [  INFO]@generator: reading from stats store
+2020-08-02 11:17:59 [  INFO]@generator: sending urls
+2020-08-02 11:17:59 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:00 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:00 [  INFO]@generator: sending urls
+2020-08-02 11:18:01 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:02 [  INFO]@generator: sending urls
+2020-08-02 11:18:02 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:03 [  INFO]@generator: sending urls
+2020-08-02 11:18:03 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:04 [  INFO]@generator: sending urls
+2020-08-02 11:18:04 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:05 [  INFO]@generator: sending urls
+2020-08-02 11:18:05 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:06 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:06 [  INFO]@generator: sending urls
+2020-08-02 11:18:07 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:08 [  INFO]@generator: sending urls
+2020-08-02 11:18:08 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:09 [  INFO]@generator: sending urls
+2020-08-02 11:18:09 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:10 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:10 [  INFO]@generator: sending urls
+2020-08-02 11:18:11 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:12 [  INFO]@generator: sending urls
+2020-08-02 11:18:12 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:13 [  INFO]@generator: sending urls
+2020-08-02 11:18:13 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:14 [  INFO]@generator: sending urls
+2020-08-02 11:18:14 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:15 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:15 [  INFO]@generator: sending urls
+2020-08-02 11:18:16 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:17 [  INFO]@generator: sending urls
+2020-08-02 11:18:17 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:18 [  INFO]@generator: sending urls
+2020-08-02 11:18:18 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:19 [  INFO]@generator: sending urls
+2020-08-02 11:18:19 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:20 [  INFO]@generator: sending urls
+2020-08-02 11:18:20 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:21 [  INFO]@generator: sending urls
+2020-08-02 11:18:21 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:22 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:22 [  INFO]@generator: sending urls
+2020-08-02 11:18:23 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:24 [  INFO]@generator: sending urls
+2020-08-02 11:18:24 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:25 [  INFO]@generator: sending urls
+2020-08-02 11:18:25 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:26 [  INFO]@generator: sending urls
+2020-08-02 11:18:26 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:27 [  INFO]@generator: sending urls
+2020-08-02 11:18:27 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:28 [  INFO]@generator: sending urls
+2020-08-02 11:18:28 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:29 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:30 [  INFO]@generator: sending urls
+2020-08-02 11:18:30 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:31 [  INFO]@generator: sending urls
+2020-08-02 11:18:31 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:32 [  INFO]@generator: sending urls
+2020-08-02 11:18:32 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:33 [  INFO]@generator: sending urls
+2020-08-02 11:18:33 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:34 [  INFO]@generator: sending urls
+2020-08-02 11:18:34 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:35 [  INFO]@generator: sending urls
+2020-08-02 11:18:35 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:36 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:37 [  INFO]@generator: sending urls
+2020-08-02 11:18:37 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:38 [  INFO]@generator: sending urls
+2020-08-02 11:18:38 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:39 [  INFO]@generator: sending urls
+2020-08-02 11:18:39 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:40 [  INFO]@generator: sending urls
+2020-08-02 11:18:40 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:41 [  INFO]@generator: sending urls
+2020-08-02 11:18:42 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:42 [  INFO]@generator: sending urls
+2020-08-02 11:18:43 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:44 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:44 [  INFO]@generator: sending urls
+2020-08-02 11:18:45 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:45 [  INFO]@generator: sending urls
+2020-08-02 11:18:46 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:46 [  INFO]@generator: sending urls
+2020-08-02 11:18:47 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:47 [  INFO]@generator: sending urls
+2020-08-02 11:18:48 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:48 [  INFO]@generator: sending urls
+2020-08-02 11:18:49 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:50 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:50 [  INFO]@generator: sending urls
+2020-08-02 11:18:51 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:51 [  INFO]@generator: sending urls
+2020-08-02 11:18:52 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:52 [  INFO]@generator: sending urls
+2020-08-02 11:18:53 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:53 [  INFO]@generator: sending urls
+2020-08-02 11:18:54 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:54 [  INFO]@generator: sending urls
+2020-08-02 11:18:55 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:55 [  INFO]@generator: sending urls
+2020-08-02 11:18:56 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:57 [  INFO]@generator: sending urls
+2020-08-02 11:18:57 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:58 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:58 [  INFO]@generator: sending urls
+2020-08-02 11:18:59 [  INFO]@generator: reading from stats store
+2020-08-02 11:18:59 [  INFO]@generator: sending urls
+2020-08-02 11:19:00 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:00 [  INFO]@generator: sending urls
+2020-08-02 11:19:01 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:01 [  INFO]@generator: sending urls
+2020-08-02 11:19:02 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:02 [  INFO]@generator: sending urls
+2020-08-02 11:19:03 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:04 [  INFO]@generator: sending urls
+2020-08-02 11:19:04 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:05 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:05 [  INFO]@generator: sending urls
+2020-08-02 11:19:06 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:06 [  INFO]@generator: sending urls
+2020-08-02 11:19:07 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:07 [  INFO]@generator: sending urls
+2020-08-02 11:19:08 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:08 [  INFO]@generator: sending urls
+2020-08-02 11:19:09 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:10 [  INFO]@generator: sending urls
+2020-08-02 11:19:10 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:11 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:11 [  INFO]@generator: sending urls
+2020-08-02 11:19:12 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:12 [  INFO]@generator: sending urls
+2020-08-02 11:19:13 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:14 [  INFO]@generator: sending urls
+2020-08-02 11:19:14 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:15 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:15 [  INFO]@generator: sending urls
+2020-08-02 11:19:16 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:16 [  INFO]@generator: sending urls
+2020-08-02 11:19:17 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:17 [  INFO]@generator: sending urls
+2020-08-02 11:19:18 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:18 [  INFO]@generator: sending urls
+2020-08-02 11:19:19 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:19 [  INFO]@generator: sending urls
+2020-08-02 11:19:20 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:21 [  INFO]@generator: sending urls
+2020-08-02 11:19:21 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:22 [  INFO]@generator: sending urls
+2020-08-02 11:19:22 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:23 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:23 [  INFO]@generator: sending urls
+2020-08-02 11:19:24 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:24 [  INFO]@generator: sending urls
+2020-08-02 11:19:25 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:25 [  INFO]@generator: sending urls
+2020-08-02 11:19:26 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:26 [  INFO]@generator: sending urls
+2020-08-02 11:19:27 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:27 [  INFO]@generator: sending urls
+2020-08-02 11:19:28 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:28 [  INFO]@generator: sending urls
+2020-08-02 11:19:29 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:30 [  INFO]@generator: sending urls
+2020-08-02 11:19:30 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:31 [  INFO]@generator: sending urls
+2020-08-02 11:19:31 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:32 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:32 [  INFO]@generator: sending urls
+2020-08-02 11:19:33 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:33 [  INFO]@generator: sending urls
+2020-08-02 11:19:34 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:34 [  INFO]@generator: sending urls
+2020-08-02 11:19:35 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:35 [  INFO]@generator: sending urls
+2020-08-02 11:19:36 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:36 [  INFO]@generator: sending urls
+2020-08-02 11:19:37 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:38 [  INFO]@generator: sending urls
+2020-08-02 11:19:38 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:39 [  INFO]@generator: sending urls
+2020-08-02 11:19:39 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:40 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:40 [  INFO]@generator: sending urls
+2020-08-02 11:19:41 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:41 [  INFO]@generator: sending urls
+2020-08-02 11:19:42 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:42 [  INFO]@generator: sending urls
+2020-08-02 11:19:43 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:43 [  INFO]@generator: sending urls
+2020-08-02 11:19:44 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:44 [  INFO]@generator: sending urls
+2020-08-02 11:19:45 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:46 [  INFO]@generator: sending urls
+2020-08-02 11:19:46 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:47 [  INFO]@generator: sending urls
+2020-08-02 11:19:47 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:48 [  INFO]@generator: sending urls
+2020-08-02 11:19:48 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:49 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:49 [  INFO]@generator: sending urls
+2020-08-02 11:19:50 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:50 [  INFO]@generator: sending urls
+2020-08-02 11:19:51 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:51 [  INFO]@generator: sending urls
+2020-08-02 11:19:52 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:52 [  INFO]@generator: sending urls
+2020-08-02 11:19:53 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:53 [  INFO]@generator: sending urls
+2020-08-02 11:19:54 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:55 [  INFO]@generator: sending urls
+2020-08-02 11:19:55 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:56 [  INFO]@generator: sending urls
+2020-08-02 11:19:56 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:57 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:57 [  INFO]@generator: sending urls
+2020-08-02 11:19:58 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:58 [  INFO]@generator: sending urls
+2020-08-02 11:19:59 [  INFO]@generator: reading from stats store
+2020-08-02 11:19:59 [  INFO]@generator: sending urls
+2020-08-02 11:20:00 [  INFO]@generator: reading from stats store
+2020-08-02 11:20:00 [  INFO]@generator: sending urls
+2020-08-02 11:20:01 [  INFO]@generator: reading from stats store
+2020-08-02 11:20:01 [  INFO]@generator: sending urls
+2020-08-02 11:20:02 [  INFO]@generator: reading from stats store
+2020-08-02 11:20:03 [  INFO]@generator: sending urls
+2020-08-02 11:20:03 [  INFO]@signal_handler: shutting down
+2020-08-02 11:20:03 [  INFO]@worker_0: input stream was closed
+2020-08-02 11:20:03 [  INFO]@printer: input stream was closed
+2020-08-02 11:20:03 [  INFO]@worker_1: input stream was closed
+2020-08-02 11:20:03 [  INFO]@stats_writer: input stream was closed
+2020-08-02 11:20:03 [  INFO]@main: [{url: "http://google.com", success: 118, failure: 0, avg_response_time: 00:00:00.014125800}, {url: "https://yahoo.co.jp", success: 118, failure: 0, avg_response_time: 00:00:00.010687800}, {url: "http://localhost:3000", success: 0, failure: 118, avg_response_time: 00:00:00}, {url: "http://e5119bb9fcb767fab2851e5c191e9552-not-exists.com:3000", success: 0, failure: 118, avg_response_time: 00:00:00}, {url: "https://amazon.co.jp", success: 118, failure: 0, avg_response_time: 00:00:00.109039000}]
